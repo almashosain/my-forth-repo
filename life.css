@@ -1,0 +1,16 @@
+h3{
+    font-size: larger;
+    color: green;
+    background-color: black;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+div{
+    color: burlywood;
+    background-color: white;
+}
+li{ 
+    color: black;
+    background-color: white;
+}
